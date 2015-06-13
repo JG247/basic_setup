@@ -1,0 +1,36 @@
+{
+  "name": "high_charts",
+  "version": "1.0.0",
+  "description": "Data visualisation implemented with High Charts",
+  "main": "index.js",
+  "dependencies": {
+    "grunt": "^0.4.5",
+    "grunt-cli": "^0.1.13"
+  },
+  "devDependencies": {
+    "bower": "^1.4.1",
+    "grunt": "^0.4.5",
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt-karma": "^0.11.0",
+    "jasmine": "^2.3.1",
+    "jasmine-core": "^2.3.4",
+    "karma": "^0.12.36",
+    "karma-chrome-launcher": "^0.1.12",
+    "karma-jasmine": "^0.3.5",
+    "karma-requirejs": "^0.2.2",
+    "requirejs": "^2.1.18"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JG247/high_charts.git"
+  },
+  "author": "James Grant",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JG247/high_charts/issues"
+  },
+  "homepage": "https://github.com/JG247/high_charts"
+}

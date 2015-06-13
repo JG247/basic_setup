@@ -1,0 +1,23 @@
+{
+  "name": "high_charts",
+  "version": "0.0.0",
+  "homepage": "https://github.com/JG247/high_charts",
+  "authors": [
+    "James <jgproduction1@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "requirejs": "~2.1.18",
+    "highcharts": "~4.1.5",
+    "angular": "~1.4.0",
+    "jquery": "~2.1.4",
+    "bootstrap-sass": "~3.3.4"
+  }
+}
