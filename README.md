@@ -1,2 +1,2 @@
 # Basic set up
-Demonstration of data visualisation using High Charts
+Demonstration of a basic JavaScript set up
