@@ -1,7 +1,7 @@
 {
   "name": "high_charts",
   "version": "1.0.0",
-  "description": "Data visualisation implemented with High Charts",
+  "description": "Basic JavaScript app set up",
   "main": "index.js",
   "dependencies": {
     "grunt": "^0.4.5",
@@ -25,12 +25,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/JG247/high_charts.git"
+    "url": "https://github.com/JG247/basic_setup.git"
   },
   "author": "James Grant",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/JG247/high_charts/issues"
+    "url": "https://github.com/JG247/basic_setup/issues"
   },
-  "homepage": "https://github.com/JG247/high_charts"
+  "homepage": "https://github.com/JG247/basic_setup"
 }
