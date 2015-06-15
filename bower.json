@@ -1,9 +1,9 @@
 {
   "name": "high_charts",
   "version": "0.0.0",
-  "homepage": "https://github.com/JG247/high_charts",
+  "homepage": "https://github.com/JG247/basic_setup",
   "authors": [
-    "James <jgproduction1@gmail.com>"
+    "James"
   ],
   "license": "MIT",
   "ignore": [
